@@ -1,2 +1,2 @@
-# TRY
-TRY many ways
+# Coursera-CHI
+Student registration Courses  
